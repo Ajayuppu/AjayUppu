@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ajay.uppu6@gmail.com**
 
-- ⚡ Fun fact **“One thing I cannot live without Suji 🤣”**
+- ⚡ Fun fact **“One thing I cannot live without @Sujitha Rasamsetty 🤣”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

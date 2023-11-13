@@ -9,6 +9,11 @@
 
 - 📫 How to reach me: **ajay.uppu6@gmail.com**
 
+Connect with me on LinkedIn to stay updated on what I am doing professionally,
+Check out my twitter@ AjayUppu1 or should I say "X" to see me rant about tech stuff.
+Send me a mail @ ajay.uppu6@gmail.com to discuss new projects/opportunities, and,
+Follow me on Instagram @ajay_helloo to know what I'm upto in my free time
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ajayuppu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay uppu" height="30" width="40" /></a>

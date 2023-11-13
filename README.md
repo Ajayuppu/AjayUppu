@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ajay Uppu</h1>
-<h3 align="center">Cyber Security Enthusiastic</h3>
+<h1 align="center"> Hey there! 👋 I'm Ajay Uppu, a passionate technologist and Cloud Engineer on a mission to push the boundaries of innovation. Currently harnessing the power of clouds at Futuralis as a Cloud Engineer, where I orchestrate the symphony of Python, Javascript, and Linux , Security to create seamless cloud experiences</h1>
+<h3 align="center">Web3 Security and Blockchain Enthusastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajayuppu&label=Profile%20views&color=0e75b6&style=flat" alt="ajayuppu" /> </p>
 
@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning **Heroku**
+- 🌱 I’m currently learning **Web3 And Blockchain Technology
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajayuppu](https://github.com/Ajayuppu)
 
@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **ajay.uppu6@gmail.com**
 
-- ⚡ Fun fact **“One thing I cannot live without my single partner🤣”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -8,7 +8,7 @@
 - 💬 Ask me about **Python, Java Script, Linux, Penetration Testing, AWS Cloud, Git, Bash Scripting, AWS Security, CI/CD Pipelines, and more.**
 
 - 📫 How to reach me: **ajay.uppu6@gmail.com**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ajayuppu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay uppu" height="30" width="40" /></a>
@@ -16,6 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayuppu&show_icons=true&locale=en&layout=compact" alt="ajayuppu" /></p>
 
----
 
 I'm always up for exciting collaborations and discussions, so feel free to explore my projects and drop me a line! Let's code, innovate, and build together. 🚀✨

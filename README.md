@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there! 👋 I'm Ajay Uppu, a passionate technologist and Cloud Engineer on a mission to push the boundaries of innovation. Currently harnessing the power of clouds at Futuralis as a Cloud Engineer, where I orchestrate the symphony of Python, Javascript, and Linux , Security to create seamless cloud experiences</h1>
+<h2 align="center"> Hey there! 👋 I'm Ajay Uppu, a passionate technologist and Cloud Engineer on a mission to push the boundaries of innovation. Currently harnessing the power of clouds at Futuralis as a Cloud Engineer, where I orchestrate the symphony of Python, Javascript, and Linux , Security to create seamless cloud experiences</h2>
 <h3 align="center">Web3 Security and Blockchain Enthusastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajayuppu&label=Profile%20views&color=0e75b6&style=flat" alt="ajayuppu" /> </p>
@@ -7,11 +7,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning **Web3 And Blockchain Technology
+- 🌱 I’m currently learning **Web3 And Blockchain Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajayuppu](https://github.com/Ajayuppu)
 
-- 💬 Ask me about **Python,Java, Penetration Testing and Infosec **
+- 💬 Ask me about **Python, Java Script , Linux, Penetration Testing , AWS Cloud, Git, Bash Scripting, AWS Security, CI/CD Pipelines, Penetration Testing.**
 
 - 📫 How to reach me **ajay.uppu6@gmail.com**
 

@@ -1,12 +1,6 @@
 <h2 align="center"> Hey there! 👋 I'm Ajay Uppu, a passionate technologist and Cloud Engineer on a mission to push the boundaries of innovation. Currently harnessing the power of clouds at Futuralis as a Cloud Engineer, where I orchestrate the symphony of Python, Javascript, Linux, and Security to create seamless cloud experiences</h2>
 <h3 align="center">Web3 Security and Blockchain Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajayuppu&label=Profile%20views&color=0e75b6&style=flat" alt="ajayuppu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayuppu" alt="ajayuppu" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
 - 🌱 I’m currently diving into the fascinating realms of **Web3 and Blockchain Technology**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajayuppu](https://github.com/Ajayuppu)

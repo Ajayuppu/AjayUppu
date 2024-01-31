@@ -1,7 +1,7 @@
-<h2 align="center"> Hey there! 👋 I'm Ajay Uppu, a passionate technologist and Cloud Engineer on a mission to push the boundaries of innovation. Currently harnessing the power of clouds at Futuralis as a Cloud Engineer, where I orchestrate the symphony of Python, Solidity, Javascript, Linux, and Security to create seamless cloud experiences</h2>
-<h3 align="center">Web3 Security and Blockchain Enthusiast</h3>
+<h2 align="center"> Hey there! 👋 I'm Ajay Uppu, a passionate technologist and Cloud Engineer on a mission to push the boundaries of innovation. Currently harnessing the power of clouds at Futuralis as a Cloud Engineer, where I orchestrate the symphony of Python, Linux, and Security to create seamless cloud experiences</h2>
+<h3 align="center"> AWS Cloud, Security and AI </h3>
 
-- 🌱 I’m currently diving into the fascinating realms of **Web3 and Blockchain Technology**.
+- 🌱 I’m currently diving into the fascinating realms of **cloud computing and AI**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajayuppu](https://github.com/Ajayuppu)
 

@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajayuppu](https://github.com/Ajayuppu)
 
-- 💬 Ask me about **Python, Java Script, Linux, Penetration Testing, AWS Cloud, Git, Bash Scripting, AWS Security, CI/CD Pipelines, and more.**
+- 💬 Ask me about **Python, Machine Learning, Linux, Penetration Testing, AWS Cloud, Git, Security, CI/CD Pipelines, and more.**
 
 - 📫 How to reach me: **ajay.uppu6@gmail.com**
 

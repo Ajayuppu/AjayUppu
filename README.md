@@ -4,7 +4,7 @@
 - 🌱 I’m currently diving into the fascinating realms of **cloud computing , Data Science and AI**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajayuppu](https://github.com/Ajayuppu)
-- 
+  
 - 📫 How to reach me: **ajay.uppu6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

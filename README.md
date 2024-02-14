@@ -10,9 +10,7 @@
   <img src="https://img.shields.io/badge/Devops-Learning-blueviolet?style=flat-square&logo=Devops&logoColor=white" alt="Learning Devops" />
 </p>
 
-<p align="center">
-  <img align="center" alt="Coding" width="400" 
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDQ0ZTg0MzY5MDhmMWVmOGQyZmMzMzRlMjcwYzdmOTQ2NTU0N2ZjZSZjdD1z/JTVWACMOESFcA1oewp/giphy.gif" />  
+<p align="center"> 
 <iframe src="https://giphy.com/embed/90EOT1pnHrxr1GAoSR" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/asus-socialmedia-laptop-asus-90EOT1pnHrxr1GAoSR">via GIPHY</a></p>
 </p>
 

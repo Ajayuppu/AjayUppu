@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Devops-Learning-blueviolet?style=flat-square&logo=Devops&logoColor=white" alt="Learning Devops" />
 </p>
 
-<p align="center"
+<p align="center" >
 <div style="text-align: center;">
     <img src="https://github.com/Ajayuppu/AjayUppu/assets/55712378/9b8779b8-f9a4-4c64-99a8-8d7aee533009" alt="Ajay Github Gif"> 
 </div>
@@ -21,6 +21,7 @@
 - 👯 I’m looking to collaborate on **Generative AI Projects and Open Source Projects**
 - 💬 Ask me about **Python, AWS Cloud, and ML**
 - 📫 How to reach me: **ajay.uppu6@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/Ajayuppu](https://github.com/Ajayuppu)
 - 😄 Pronouns: **He/Him**
 
 <h3 align="center">Skills</h3>
@@ -35,7 +36,7 @@
   <img src="https://img.shields.io/badge/Git-Intermediate-orange?style=for-the-badge&logo=Git&logoColor=white" alt="Git Intermediate" />
 </p>
 
-   ![Ajay Github gifnew one](https://github.com/Ajayuppu/AjayUppu/assets/55712378/9b8779b8-f9a4-4c64-99a8-8d7aee533009)
+  
 
 
 <h3 align="left">Connect with me:</h3>
@@ -57,21 +58,6 @@
 <!-- GitHub Streak Card -->
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayUppu&theme=highcontrast" alt="Ajay Uppu GitHub Streak" />
-</p>
-
-
-- 🌱 I’m currently diving into the fascinating realms of **cloud computing , Data Science and AI**.
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ajayuppu](https://github.com/Ajayuppu)
-  
-
-
-
- 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ajayuppu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay uppu" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayuppu&show_icons=true&locale=en&layout=compact" alt="ajayuppu" /></p>

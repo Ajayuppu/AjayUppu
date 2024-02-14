@@ -48,8 +48,6 @@
 <!-- Top Languages Card -->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayuppu&show_icons=true&locale=en&layout=compact" alt="ajayuppu" />
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayUppu&hide=java&title_color=ff8c00&text_color=fff&icon_color=ff8c00&bg_color=0d1117" alt="Ajay Uppu GitHub Stats" />
 </p>
 
 <!-- GitHub Stats Card -->

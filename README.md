@@ -20,3 +20,7 @@
 
 
 I'm always up for exciting collaborations and discussions, so feel free to explore my projects and drop me a line! Let's code, innovate, and build together. 🚀✨
+
+<div class="github-stats-container">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayuppu&show_icons=true&locale=en&layout=compact" alt="ajayuppu" />
+</div>

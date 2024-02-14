@@ -11,7 +11,10 @@
 </p>
 
 <p align="center"> 
-<iframe src="https://giphy.com/embed/90EOT1pnHrxr1GAoSR" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/asus-socialmedia-laptop-asus-90EOT1pnHrxr1GAoSR">via GIPHY</a></p>
+<img align="center" alt="Coding" width="400" 
+     ![Ajay Github gifnew one](https://github.com/Ajayuppu/AjayUppu/assets/55712378/9b8779b8-f9a4-4c64-99a8-8d7aee533009)
+
+  
 </p>
 
 - 🔭 I’m currently working on **AWS Cloud and Generative AI , Machine Learning Projects**
@@ -63,7 +66,6 @@
 
 
 
-     ![Ajay Github gifnew one](https://github.com/Ajayuppu/AjayUppu/assets/55712378/9b8779b8-f9a4-4c64-99a8-8d7aee533009)
  
 
 <h3 align="left">Connect with me:</h3>

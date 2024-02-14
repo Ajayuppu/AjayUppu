@@ -10,13 +10,7 @@
   <img src="https://img.shields.io/badge/Devops-Learning-blueviolet?style=flat-square&logo=Devops&logoColor=white" alt="Learning Devops" />
 </p>
 
-
   
-   ![Ajay Github gifnew one](https://github.com/Ajayuppu/AjayUppu/assets/55712378/9b8779b8-f9a4-4c64-99a8-8d7aee533009)
-
-  
-
-
 - 🔭 I’m currently working on **AWS Cloud and Generative AI , Machine Learning Projects**
 - 🌱 I’m currently learning about **Deployment of AWS Generative AI models **
 - 👯 I’m looking to collaborate on **Generative AI Projects and Open Source Projects**
@@ -35,6 +29,8 @@
   <img src="https://img.shields.io/badge/SQL-Intermediate-orange?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL Intermediate" />
   <img src="https://img.shields.io/badge/Git-Intermediate-orange?style=for-the-badge&logo=Git&logoColor=white" alt="Git Intermediate" />
 </p>
+
+   ![Ajay Github gifnew one](https://github.com/Ajayuppu/AjayUppu/assets/55712378/9b8779b8-f9a4-4c64-99a8-8d7aee533009)
 
 
 <h3 align="left">Connect with me:</h3>

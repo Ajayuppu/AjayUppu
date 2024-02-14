@@ -10,10 +10,11 @@
   <img src="https://img.shields.io/badge/Devops-Learning-blueviolet?style=flat-square&logo=Devops&logoColor=white" alt="Learning Devops" />
 </p>
 
+<p align="center"
 <div style="text-align: center;">
     <img src="https://github.com/Ajayuppu/AjayUppu/assets/55712378/9b8779b8-f9a4-4c64-99a8-8d7aee533009" alt="Ajay Github Gif"> 
 </div>
-
+</p>
   
 - 🔭 I’m currently working on **AWS Cloud and Generative AI , Machine Learning Projects**
 - 🌱 I’m currently learning about **Deployment of AWS Generative AI models **

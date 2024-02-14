@@ -47,6 +47,8 @@
 
 <!-- Top Languages Card -->
 <p align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayuppu&show_icons=true&locale=en&layout=compact" alt="ajayuppu" /></p>
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayUppu&hide=java&title_color=ff8c00&text_color=fff&icon_color=ff8c00&bg_color=0d1117" alt="Ajay Uppu GitHub Stats" />
 </p>
 
@@ -62,7 +64,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayuppu&show_icons=true&locale=en&layout=compact" alt="ajayuppu" /></p>
 
 
 I'm always up for exciting collaborations and discussions, so feel free to explore my projects and drop me a line! Let's code, innovate, and build together. 🚀✨

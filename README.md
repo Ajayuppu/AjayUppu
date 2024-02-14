@@ -52,7 +52,7 @@
 
 <!-- GitHub Stats Card -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajay Uppu&show_icons=true&line_height=27&count_private=true&title_color=ff8c00&text_color=fff&icon_color=ff8c00&bg_color=0d1117" alt="Ajay Uppu GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ajayuppu&show_icons=true&line_height=27&count_private=true&title_color=ff8c00&text_color=fff&icon_color=ff8c00&bg_color=0d1117" alt="Ajay Uppu GitHub Stats" />
 </p>
 
 <!-- GitHub Streak Card -->

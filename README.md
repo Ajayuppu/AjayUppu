@@ -7,8 +7,8 @@
   
 - 📫 How to reach me: **ajay.uppu6@gmail.com**
 
+![Ajay Github gif new](https://github.com/Ajayuppu/AjayUppu/assets/55712378/6fab349f-2757-4b6f-8fde-d211384e8e2f)
 
-![Ajay Github gif](https://github.com/Ajayuppu/AjayUppu/assets/55712378/2039b2de-835c-466a-9b3b-2bf3e288d36f)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

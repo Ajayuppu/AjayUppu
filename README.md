@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Ajay Uppu</h1>
-<h3 align="center">AI Enthusiast | AWS Cloud | ML ☕</h3>
+<h3 align="center">AI Enthusiast | AWS Cloud | ML </h3>
 <h3 align="center"> AWS Cloud, Machine Learning and AI </h3>
 
 <p align="left">
@@ -59,10 +59,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayUppu&theme=highcontrast" alt="Ajay Uppu GitHub Streak" />
 </p>
-
-
-
-
 
 I'm always up for exciting collaborations and discussions, so feel free to explore my projects and drop me a line! Let's code, innovate, and build together. 🚀✨
 

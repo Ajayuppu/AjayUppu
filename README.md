@@ -12,7 +12,7 @@
 
 
   
-     ![Ajay Github gifnew one](https://github.com/Ajayuppu/AjayUppu/assets/55712378/9b8779b8-f9a4-4c64-99a8-8d7aee533009)
+   ![Ajay Github gifnew one](https://github.com/Ajayuppu/AjayUppu/assets/55712378/9b8779b8-f9a4-4c64-99a8-8d7aee533009)
 
   
 
